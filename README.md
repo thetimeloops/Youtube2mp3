@@ -4,6 +4,7 @@
 
 *USAGE*
 
-```pip3 install youtube-dl
-   python3 main.py
+```javascript
+pip3 install youtube-dl
+python3 main.py
 ```
